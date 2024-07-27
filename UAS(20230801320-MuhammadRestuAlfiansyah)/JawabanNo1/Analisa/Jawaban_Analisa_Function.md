@@ -1,0 +1,1 @@
+function adalah blok kode yang dirancang untuk melakukan tugas tertentu. Fungsi menerima input, melakukan operasi pada input tersebut, dan biasanya mengembalikan output. Fungsi digunakan untuk mengorganisir kode, membuatnya lebih modular, mudah dibaca, dan mudah dikelola.

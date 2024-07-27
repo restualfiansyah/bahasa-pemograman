@@ -1,0 +1,1 @@
+recursive adalah teknik di mana sebuah fungsi memanggil dirinya sendiri secara langsung atau tidak langsung untuk menyelesaikan suatu masalah. Rekursi digunakan untuk memecah masalah besar menjadi masalah yang lebih kecil dan lebih sederhana yang lebih mudah dipecahkan.
